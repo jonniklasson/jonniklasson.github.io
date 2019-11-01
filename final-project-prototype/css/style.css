@@ -6,8 +6,12 @@ Author: Enno Hyttrek
 /*
 Imports
 */
-@import url('https://fonts.googleapis.com/css?family=Creepster&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,500,800&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+SC|Alegreya+Sans|Alegreya+Sans+SC&display=swap');
+/*
+font-family: 'Alegreya Sans', sans-serif;
+font-family: 'Alegreya SC', serif;
+font-family: 'Alegreya Sans SC', sans-serif;
+*/
 
 /*
 Reset
@@ -64,23 +68,22 @@ footer p {
 
 header {
     color: #fff;
-    background-image: url(../img/halloween-4537430_1280.jpg);
+/*    background-image: url(../img/halloween-4537430_1280.jpg);*/
     background-size: cover;
     background-position: center;
     background-color: rgb(200,200,200);
 }
 
 .where header {
-    background-image: url(../img/el-dia-de-los-muertos-234236_1280.jpg);  
+/*    background-image: url(../img/el-dia-de-los-muertos-234236_1280.jpg);  */
         background-position: top;
 }
 
 .why header {
-    background-image: url(../img/pumpkin-3636243_1280.jpg);    
 }
 
 main {
-    background-image: url(../img/animals-16908_640.jpg);
+/*    background-image: url(../img/animals-16908_640.jpg);*/
     background-size: 20%;
     background-color: rgb(230,230,230);
 }
@@ -111,11 +114,11 @@ Typography
 */ 
 
 body {
-    font-family: 'Roboto', sans-serif;
+/*    font-family: 'Roboto', sans-serif;*/
 }
 
 h1 {
-    font-family: 'Creepster', cursive;
+/*    font-family: 'Creepster', cursive;*/
     font-size: 3em;
 }
 
