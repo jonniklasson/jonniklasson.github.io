@@ -1,6 +1,5 @@
 /*
-Styleshhet for exercise 2 in the MAT 22b class at DCI Oct/Nov 2019.
-Author: Enno Hyttrek
+Styleshhet for for final project of orientation course in HTML and CSS
 */
 
 /*
@@ -72,14 +71,6 @@ header {
     background-size: cover;
     background-position: center;
     background-color: rgb(200,200,200);
-}
-
-.where header {
-/*    background-image: url(../img/el-dia-de-los-muertos-234236_1280.jpg);  */
-        background-position: top;
-}
-
-.why header {
 }
 
 main {
@@ -177,3 +168,6 @@ aside p {
     font-size: 0.8em;
 }
 
+article {
+    display: none;
+}
